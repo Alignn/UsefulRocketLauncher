@@ -7,3 +7,5 @@ Download UsefulRocketLauncher_1.0.0.zip from there.
 To install manually: Put the .zip file in this folder: C:\Users\your name here\AppData\Roaming\Factorio\mods, unless of course your mod folder is somewhere else.
 
 Unzipping is not necessary.
+
+Forum/discussion thread can be found [here](https://forums.factorio.com/viewtopic.php?f=93&t=34303).
