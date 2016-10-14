@@ -5,6 +5,6 @@
   "title": "Useful Rocket Launcher",
   "author": "Align",
   "contact": "axelandren@gmail.com",
-  "homepage": "https://github.com/Alignn/FactorioMod-UsefulRocketLauncher",
-  "description": "Improves the handheld rocket launcher; hits faster, harder, gets MIRV upgrade."
+  "homepage": "https://github.com/Alignn/UsefulRocketLauncher",
+  "description": "Improves the rocket launcher and its rockets. More range, more damage, faster projectiles, basic rocket is explosive, explosive rocket replaced with cluster rocket."
 }
