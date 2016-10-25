@@ -9,3 +9,9 @@ To install manually: Put the .zip file in this folder: C:\Users\your name here\A
 Unzipping is not necessary.
 
 Forum/discussion thread can be found [here](https://forums.factorio.com/viewtopic.php?f=93&t=34303).
+
+History:
+
+1.0.1 Fixed cluster rockets being enabled from start
+
+1.0.0 Initial release
